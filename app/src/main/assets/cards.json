@@ -1,0 +1,1012 @@
+[
+  {
+    "category": "Florida requirements",
+    "question": "What is a Certified Food Protection Manager (CFPM) in Florida?",
+    "answer": "A person responsible for a food establishment who has passed an approved written food manager certification exam; the job title does not have to be \u201cmanager.\u201d"
+  },
+  {
+    "category": "Florida requirements",
+    "question": "Which Florida agencies commonly inspect food establishments?",
+    "answer": "Florida Department of Business and Professional Regulation (DBPR) inspects many public food service establishments; Florida Department of Health (DOH) regulates many institutional/civic/school-type food operations."
+  },
+  {
+    "category": "Florida requirements",
+    "question": "What must Florida establishments provide during inspection when asked?",
+    "answer": "Proof of food manager certification for the required certified food manager(s)."
+  },
+  {
+    "category": "Florida requirements",
+    "question": "If a certified food manager leaves and the establishment becomes out of compliance, how long does Florida generally allow to regain compliance?",
+    "answer": "30 days, according to Florida DOH guidance."
+  },
+  {
+    "category": "Florida requirements",
+    "question": "Is ServSafe Manager accepted for Florida food manager certification?",
+    "answer": "ServSafe Manager is one of the nationally accredited exam programs commonly accepted for Certified Food Protection Manager requirements; always match the exam/certificate to the regulator\u2019s current approved list."
+  },
+  {
+    "category": "Florida requirements",
+    "question": "Does every food worker in Florida need the manager certificate?",
+    "answer": "No. The manager certificate is for certified food protection managers. Food employees may need employee food handler training depending on establishment type and rules."
+  },
+  {
+    "category": "Florida requirements",
+    "question": "What is the manager\u2019s core duty under Florida food safety rules?",
+    "answer": "Active managerial control: prevent foodborne illness by controlling risks, training staff, monitoring procedures, and correcting unsafe practices."
+  },
+  {
+    "category": "Florida requirements",
+    "question": "Where should a Florida manager keep certificate proof?",
+    "answer": "Keep a copy accessible at the establishment so it can be shown promptly during an inspection."
+  },
+  {
+    "category": "Florida requirements",
+    "question": "Does the Florida certificate replace safe daily procedures?",
+    "answer": "No. Certification proves exam completion; the manager must still run safe receiving, storage, prep, cooking, cooling, cleaning, and employee health systems every day."
+  },
+  {
+    "category": "Florida requirements",
+    "question": "What should a Florida manager do before the exam?",
+    "answer": "Use current ServSafe Manager materials, know time/temperature controls, pathogens, allergens, sanitation, pest control, HACCP, and Florida certificate responsibilities."
+  },
+  {
+    "category": "Exam essentials",
+    "question": "What score is commonly required to pass the ServSafe Manager exam?",
+    "answer": "70% or higher. Confirm with your test provider for the exact exam version and retake rules."
+  },
+  {
+    "category": "Exam essentials",
+    "question": "What type of exam is ServSafe Manager?",
+    "answer": "A proctored food protection manager certification exam focused on preventing foodborne illness through managerial control."
+  },
+  {
+    "category": "Exam essentials",
+    "question": "What should you memorize first?",
+    "answer": "Key temperatures, danger zone, handwashing, major pathogens, allergens, cross-contamination prevention, cooling/reheating, and sanitizer basics."
+  },
+  {
+    "category": "Exam essentials",
+    "question": "What does active managerial control mean?",
+    "answer": "Proactively identifying food safety risks, setting procedures, training employees, monitoring tasks, and taking corrective action."
+  },
+  {
+    "category": "Exam essentials",
+    "question": "What is the FDA Food Code?",
+    "answer": "A model food safety code used by jurisdictions to build local rules; always follow your local authority\u2019s rules."
+  },
+  {
+    "category": "Foodborne illness basics",
+    "question": "What is a foodborne illness outbreak?",
+    "answer": "When two or more people get the same illness after eating the same food, and investigation links the food as the source."
+  },
+  {
+    "category": "Foodborne illness basics",
+    "question": "What are the five common risk factors for foodborne illness?",
+    "answer": "Purchasing from unsafe sources, failing to cook correctly, holding at wrong temperatures, using contaminated equipment, and poor personal hygiene."
+  },
+  {
+    "category": "Foodborne illness basics",
+    "question": "What three conditions do bacteria need most?",
+    "answer": "Food, moisture, and time/temperature abuse. FAT TOM also adds acidity, temperature, oxygen, and moisture."
+  },
+  {
+    "category": "Foodborne illness basics",
+    "question": "What does FAT TOM stand for?",
+    "answer": "Food, Acidity, Temperature, Time, Oxygen, Moisture."
+  },
+  {
+    "category": "Foodborne illness basics",
+    "question": "What is TCS food?",
+    "answer": "Time/Temperature Control for Safety food: food that needs time and temperature control to limit pathogen growth or toxin production."
+  },
+  {
+    "category": "Foodborne illness basics",
+    "question": "Give examples of TCS foods.",
+    "answer": "Meat, poultry, fish, shell eggs, dairy, cooked rice/beans/vegetables, cut melon, cut leafy greens, sliced tomatoes, tofu, sprouts, and garlic-in-oil mixtures."
+  },
+  {
+    "category": "Foodborne illness basics",
+    "question": "What is the temperature danger zone?",
+    "answer": "41\u00b0F to 135\u00b0F (5\u00b0C to 57\u00b0C). Pathogens can grow quickly in this range."
+  },
+  {
+    "category": "Foodborne illness basics",
+    "question": "What part of the danger zone supports fastest pathogen growth?",
+    "answer": "About 70\u00b0F to 125\u00b0F."
+  },
+  {
+    "category": "Foodborne illness basics",
+    "question": "How long can TCS food be in the danger zone before it must usually be discarded?",
+    "answer": "No more than 4 total hours without proper temperature control, unless a written time-as-control procedure allows a specific safe limit."
+  },
+  {
+    "category": "Foodborne illness basics",
+    "question": "What is cross-contamination?",
+    "answer": "The transfer of pathogens or allergens from one food/surface to another."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Minimum internal temperature for poultry?",
+    "answer": "165\u00b0F for 15 seconds."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Minimum internal temperature for stuffed meat, seafood, pasta, or stuffing?",
+    "answer": "165\u00b0F for 15 seconds."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Minimum internal temperature for reheating TCS food for hot holding?",
+    "answer": "165\u00b0F within 2 hours."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Minimum internal temperature for ground meat?",
+    "answer": "155\u00b0F for 17 seconds."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Minimum internal temperature for injected meat or mechanically tenderized meat?",
+    "answer": "155\u00b0F for 17 seconds."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Minimum internal temperature for shell eggs hot-held for service?",
+    "answer": "155\u00b0F for 17 seconds."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Minimum internal temperature for seafood, steaks/chops, and commercially raised game?",
+    "answer": "145\u00b0F for 15 seconds."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Minimum internal temperature for shell eggs served immediately?",
+    "answer": "145\u00b0F for 15 seconds."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Minimum internal temperature for roasts of pork, beef, veal, and lamb?",
+    "answer": "145\u00b0F for 4 minutes, unless an approved alternate time/temperature chart is used."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Minimum internal temperature for fruit, vegetables, grains, and legumes cooked for hot holding?",
+    "answer": "135\u00b0F."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Cold holding temperature?",
+    "answer": "41\u00b0F or lower."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Hot holding temperature?",
+    "answer": "135\u00b0F or higher."
+  },
+  {
+    "category": "Temperatures",
+    "question": "Frozen food should be received at what condition?",
+    "answer": "Frozen solid with no signs of thawing/refreezing such as fluid stains or ice crystals."
+  },
+  {
+    "category": "Temperatures",
+    "question": "How should thermometers be calibrated using ice-point method?",
+    "answer": "Immerse stem/probe in ice water and adjust/read to 32\u00b0F (0\u00b0C)."
+  },
+  {
+    "category": "Temperatures",
+    "question": "How often should thermometers be calibrated?",
+    "answer": "Before each shift, before first delivery, after being dropped, after extreme temperature changes, and whenever accuracy is questioned."
+  },
+  {
+    "category": "Cooling and reheating",
+    "question": "Two-stage cooling rule?",
+    "answer": "Cool TCS food from 135\u00b0F to 70\u00b0F within 2 hours, then from 70\u00b0F to 41\u00b0F or lower within the next 4 hours: 6 hours total."
+  },
+  {
+    "category": "Cooling and reheating",
+    "question": "What if food has not reached 70\u00b0F within 2 hours during cooling?",
+    "answer": "Reheat to 165\u00b0F and start cooling again, or discard."
+  },
+  {
+    "category": "Cooling and reheating",
+    "question": "Best containers for cooling?",
+    "answer": "Shallow pans, loosely covered until cooled, with food split into smaller portions."
+  },
+  {
+    "category": "Cooling and reheating",
+    "question": "Cooling methods to know?",
+    "answer": "Ice-water bath, ice paddle, blast chiller, stirring, smaller portions, shallow metal pans, adding ice/water as ingredient."
+  },
+  {
+    "category": "Cooling and reheating",
+    "question": "Can you cool a large pot of soup at room temperature?",
+    "answer": "No. Use approved cooling methods; room-temperature cooling is unsafe."
+  },
+  {
+    "category": "Cooling and reheating",
+    "question": "Reheat temperature for hot-held leftovers?",
+    "answer": "165\u00b0F within 2 hours."
+  },
+  {
+    "category": "Cooling and reheating",
+    "question": "Can commercially processed ready-to-eat food be reheated for hot holding to 135\u00b0F?",
+    "answer": "Yes, some commercially processed ready-to-eat food can be heated to 135\u00b0F for hot holding; check local rules and product details."
+  },
+  {
+    "category": "Personal hygiene",
+    "question": "When must food handlers wash hands?",
+    "answer": "Before work; before gloves; after restroom, eating/drinking/smoking, touching face/hair/body, handling raw food, taking trash out, cleaning, touching animals/money/phone, sneezing/coughing, or any contamination."
+  },
+  {
+    "category": "Personal hygiene",
+    "question": "Minimum handwashing time?",
+    "answer": "Scrub hands and arms for 10\u201315 seconds; the whole process is about 20 seconds."
+  },
+  {
+    "category": "Personal hygiene",
+    "question": "Where can handwashing occur?",
+    "answer": "Only at a designated handwashing sink with warm running water, soap, paper towels/hand dryer, and trash container."
+  },
+  {
+    "category": "Personal hygiene",
+    "question": "Can hand sanitizer replace handwashing?",
+    "answer": "No. It can be used after proper handwashing if allowed, but it does not replace washing."
+  },
+  {
+    "category": "Personal hygiene",
+    "question": "When must single-use gloves be changed?",
+    "answer": "When torn/dirty, before a new task, after interruptions, after handling raw food, and at least every 4 hours during continuous use."
+  },
+  {
+    "category": "Personal hygiene",
+    "question": "Bare-hand contact with ready-to-eat food?",
+    "answer": "Avoid bare-hand contact; use gloves, tongs, deli tissue, or other utensils unless a regulatory-approved exception applies."
+  },
+  {
+    "category": "Personal hygiene",
+    "question": "What jewelry is allowed for food handlers?",
+    "answer": "Typically only a plain band ring; other hand/arm jewelry can harbor pathogens or fall into food."
+  },
+  {
+    "category": "Personal hygiene",
+    "question": "What should employees do with cuts or wounds on hands?",
+    "answer": "Cover with an impermeable bandage and wear a single-use glove."
+  },
+  {
+    "category": "Personal hygiene",
+    "question": "What must managers do about sick employees?",
+    "answer": "Restrict or exclude based on symptoms, diagnosis, food handled, and local health authority rules."
+  },
+  {
+    "category": "Personal hygiene",
+    "question": "Symptoms that require excluding a food handler?",
+    "answer": "Vomiting, diarrhea, jaundice, sore throat with fever in high-risk populations, or diagnosed illnesses requiring exclusion under rules."
+  },
+  {
+    "category": "Pathogens",
+    "question": "Big Six pathogens often emphasized for exclusion/reporting?",
+    "answer": "Norovirus, Salmonella Typhi, nontyphoidal Salmonella, Shigella, Shiga toxin-producing E. coli, and Hepatitis A."
+  },
+  {
+    "category": "Pathogens",
+    "question": "Norovirus source and prevention?",
+    "answer": "Often from fecal-oral contamination and vomit; prevent with strict handwashing, excluding sick staff, cleaning vomit/diarrhea correctly, and no bare-hand contact with RTE food."
+  },
+  {
+    "category": "Pathogens",
+    "question": "Hepatitis A source and prevention?",
+    "answer": "Often linked to infected food handlers or contaminated water/shellfish; prevent with handwashing, exclusion, and approved suppliers."
+  },
+  {
+    "category": "Pathogens",
+    "question": "Salmonella commonly linked foods?",
+    "answer": "Poultry, eggs, meat, milk/dairy, produce."
+  },
+  {
+    "category": "Pathogens",
+    "question": "Shigella commonly linked foods?",
+    "answer": "Food easily contaminated by hands, such as salads containing TCS ingredients, plus contaminated water/produce."
+  },
+  {
+    "category": "Pathogens",
+    "question": "Shiga toxin-producing E. coli commonly linked foods?",
+    "answer": "Undercooked ground beef and contaminated produce."
+  },
+  {
+    "category": "Pathogens",
+    "question": "Listeria risk and control?",
+    "answer": "Can grow at refrigeration temperatures; control with cold holding, date marking, sanitation, and discarding expired RTE TCS food."
+  },
+  {
+    "category": "Pathogens",
+    "question": "Clostridium perfringens common cause?",
+    "answer": "Time-temperature abuse of cooked foods, especially large batches cooled or held improperly."
+  },
+  {
+    "category": "Pathogens",
+    "question": "Clostridium botulinum risk foods?",
+    "answer": "Improperly canned foods, reduced-oxygen packaged foods, untreated garlic-in-oil, and time-temperature abused ROP foods."
+  },
+  {
+    "category": "Pathogens",
+    "question": "Staphylococcus aureus prevention?",
+    "answer": "Good personal hygiene and excluding/restricting infected wounds; toxins can form in time-temperature abused foods."
+  },
+  {
+    "category": "Allergens",
+    "question": "Major food allergens to know?",
+    "answer": "Milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans, and sesame."
+  },
+  {
+    "category": "Allergens",
+    "question": "What is allergen cross-contact?",
+    "answer": "Transfer of an allergen from one food or surface to another food that should not contain it."
+  },
+  {
+    "category": "Allergens",
+    "question": "How should staff respond to an allergy order?",
+    "answer": "Take it seriously, tell the kitchen/manager, use clean/sanitized equipment, prevent cross-contact, and verify ingredients."
+  },
+  {
+    "category": "Allergens",
+    "question": "Should an employee guess if a dish contains an allergen?",
+    "answer": "No. Check recipe/labels or ask a manager; never guess."
+  },
+  {
+    "category": "Allergens",
+    "question": "How can menus reduce allergen risk?",
+    "answer": "Identify ingredients clearly, flag common allergens, and train staff to route allergy questions to knowledgeable employees."
+  },
+  {
+    "category": "Purchasing and receiving",
+    "question": "What is the first rule of purchasing food?",
+    "answer": "Buy from approved, reputable suppliers who follow food safety laws."
+  },
+  {
+    "category": "Purchasing and receiving",
+    "question": "Receiving temperature for cold TCS food?",
+    "answer": "41\u00b0F or lower unless specific exceptions apply."
+  },
+  {
+    "category": "Purchasing and receiving",
+    "question": "Receiving temperature for live shellfish?",
+    "answer": "Air temperature 45\u00b0F and internal temperature no more than 50\u00b0F; cool to 41\u00b0F or lower within required time."
+  },
+  {
+    "category": "Purchasing and receiving",
+    "question": "Receiving temperature for milk?",
+    "answer": "45\u00b0F or lower, then cool to 41\u00b0F or lower within required time."
+  },
+  {
+    "category": "Purchasing and receiving",
+    "question": "Receiving temperature for shell eggs?",
+    "answer": "Air temperature of 45\u00b0F or lower."
+  },
+  {
+    "category": "Purchasing and receiving",
+    "question": "When should a delivery be rejected?",
+    "answer": "Wrong temperature, damaged packaging, signs of pests, expired use-by dates, leaks, bad odor, mold, or signs of thawing/refreezing."
+  },
+  {
+    "category": "Purchasing and receiving",
+    "question": "What documentation is needed for shellfish?",
+    "answer": "Shellstock identification tags kept with product and retained for 90 days after last shellfish from the container is sold/served."
+  },
+  {
+    "category": "Purchasing and receiving",
+    "question": "What documentation is needed for fish served raw/undercooked?",
+    "answer": "Proof of proper parasite destruction/freeze treatment, unless exempt species/aquaculture conditions apply."
+  },
+  {
+    "category": "Purchasing and receiving",
+    "question": "What should be checked on ROP/MAP/vacuum packaged fish?",
+    "answer": "Keep frozen until use if labeled that way; open package before thawing under refrigeration if required by label."
+  },
+  {
+    "category": "Storage",
+    "question": "Food storage order from top to bottom?",
+    "answer": "Ready-to-eat food, seafood, whole cuts beef/pork, ground meat/fish, poultry at bottom."
+  },
+  {
+    "category": "Storage",
+    "question": "Why store poultry below other raw meats?",
+    "answer": "It requires the highest cooking temperature, so its juices create the greatest contamination risk."
+  },
+  {
+    "category": "Storage",
+    "question": "How high off the floor should food be stored?",
+    "answer": "At least 6 inches off the floor."
+  },
+  {
+    "category": "Storage",
+    "question": "FIFO means what?",
+    "answer": "First In, First Out: use older stock before newer stock."
+  },
+  {
+    "category": "Storage",
+    "question": "How should food be labeled for storage?",
+    "answer": "Common name if not easily identifiable; date mark RTE TCS food held more than 24 hours."
+  },
+  {
+    "category": "Storage",
+    "question": "Maximum date marking period for ready-to-eat TCS food?",
+    "answer": "7 days total if held at 41\u00b0F or lower, with the prep/open date counted as day 1."
+  },
+  {
+    "category": "Storage",
+    "question": "What date is used when combining ingredients with different dates?",
+    "answer": "Use the earliest discard date of any ingredient."
+  },
+  {
+    "category": "Storage",
+    "question": "Where should chemicals be stored?",
+    "answer": "Away from food, equipment, utensils, linens, and single-use items; never above food/prep areas."
+  },
+  {
+    "category": "Storage",
+    "question": "What is reduced oxygen packaging risk?",
+    "answer": "Anaerobic pathogens such as C. botulinum and Listeria can grow if controls fail."
+  },
+  {
+    "category": "Preparation",
+    "question": "Safe ways to thaw food?",
+    "answer": "In a cooler at 41\u00b0F or lower, under running potable water 70\u00b0F or lower, in a microwave if cooked immediately, or as part of cooking."
+  },
+  {
+    "category": "Preparation",
+    "question": "Can fish be thawed at room temperature?",
+    "answer": "No. Room-temperature thawing allows surface pathogens to grow."
+  },
+  {
+    "category": "Preparation",
+    "question": "How should produce be washed?",
+    "answer": "Under running potable water before cutting, cooking, or combining; do not use soap/detergent."
+  },
+  {
+    "category": "Preparation",
+    "question": "What should be done with cut melons/tomatoes/leafy greens?",
+    "answer": "Treat as TCS food and hold at 41\u00b0F or lower."
+  },
+  {
+    "category": "Preparation",
+    "question": "How long can pooled eggs be held?",
+    "answer": "Handle as TCS food; cook promptly or hold safely. Use pasteurized eggs for high-risk populations where required."
+  },
+  {
+    "category": "Preparation",
+    "question": "What is mise en place food safety risk?",
+    "answer": "Leaving prepped TCS ingredients out too long; control time and temperature."
+  },
+  {
+    "category": "Preparation",
+    "question": "What should happen after prepping raw chicken on a cutting board?",
+    "answer": "Wash, rinse, sanitize the board/knife/work area before using for other foods."
+  },
+  {
+    "category": "Service and holding",
+    "question": "How often must hot-held food temperature be checked?",
+    "answer": "At least every 4 hours; checking every 2 hours allows time for corrective action."
+  },
+  {
+    "category": "Service and holding",
+    "question": "What is the safe corrective action if hot food is below 135\u00b0F?",
+    "answer": "If checked within 2 hours, reheat to 165\u00b0F for 15 seconds and return to hot holding; otherwise discard if time is unknown/exceeds limit."
+  },
+  {
+    "category": "Service and holding",
+    "question": "What is time as a public health control?",
+    "answer": "A written procedure allowing TCS food to be held without temperature control for a limited time, then served or discarded."
+  },
+  {
+    "category": "Service and holding",
+    "question": "Common time limit for cold TCS food without temperature control?",
+    "answer": "Up to 6 hours if it starts at 41\u00b0F or lower, never exceeds 70\u00b0F, is labeled, monitored, and discarded at the limit or if over 70\u00b0F."
+  },
+  {
+    "category": "Service and holding",
+    "question": "Common time limit for hot TCS food without temperature control?",
+    "answer": "Up to 4 hours if labeled/controlled, then served, sold, or discarded."
+  },
+  {
+    "category": "Service and holding",
+    "question": "Can returned food be re-served?",
+    "answer": "Generally no, except unopened, prepackaged items in good condition where allowed."
+  },
+  {
+    "category": "Service and holding",
+    "question": "How should serving utensils be stored during service?",
+    "answer": "In the food with handle above rim, on a clean/sanitized surface, under running water, or in water at 135\u00b0F or higher for certain utensils."
+  },
+  {
+    "category": "Cleaning and sanitizing",
+    "question": "Difference between cleaning and sanitizing?",
+    "answer": "Cleaning removes food and soil; sanitizing reduces pathogens to safe levels."
+  },
+  {
+    "category": "Cleaning and sanitizing",
+    "question": "Five steps for manual warewashing?",
+    "answer": "Scrape/remove food, wash, rinse, sanitize, air-dry."
+  },
+  {
+    "category": "Cleaning and sanitizing",
+    "question": "Can towels be used to dry sanitized dishes?",
+    "answer": "No. Air-dry only."
+  },
+  {
+    "category": "Cleaning and sanitizing",
+    "question": "When must food-contact surfaces be cleaned and sanitized?",
+    "answer": "After use, before switching foods, after interruptions/contamination, and at least every 4 hours during continuous use with TCS foods."
+  },
+  {
+    "category": "Cleaning and sanitizing",
+    "question": "Common sanitizer types?",
+    "answer": "Chlorine, iodine, and quats (quaternary ammonium)."
+  },
+  {
+    "category": "Cleaning and sanitizing",
+    "question": "What affects sanitizer effectiveness?",
+    "answer": "Concentration, temperature, contact time, water hardness, pH, and surface cleanliness."
+  },
+  {
+    "category": "Cleaning and sanitizing",
+    "question": "How do you verify sanitizer strength?",
+    "answer": "Use the correct test kit/strips for that sanitizer."
+  },
+  {
+    "category": "Cleaning and sanitizing",
+    "question": "What is a master cleaning schedule?",
+    "answer": "A written plan stating what to clean, who cleans it, when, and how."
+  },
+  {
+    "category": "Cleaning and sanitizing",
+    "question": "What should be done after cleaning vomit or diarrhea?",
+    "answer": "Use a written cleanup procedure, PPE, correct disinfectant, disposal, and exclude/clean affected food/contact areas."
+  },
+  {
+    "category": "Facilities and equipment",
+    "question": "What is backflow?",
+    "answer": "Reverse flow of contaminants through a cross-connection into the potable water supply."
+  },
+  {
+    "category": "Facilities and equipment",
+    "question": "How can backflow be prevented?",
+    "answer": "Air gaps, vacuum breakers, and approved backflow prevention devices."
+  },
+  {
+    "category": "Facilities and equipment",
+    "question": "What is an air gap?",
+    "answer": "A physical separation between a water outlet and the flood-level rim of a sink/drain; best backflow prevention."
+  },
+  {
+    "category": "Facilities and equipment",
+    "question": "Lighting requirements protect food how?",
+    "answer": "Adequate lighting helps cleaning/inspection; bulbs may need shielding to prevent glass contamination."
+  },
+  {
+    "category": "Facilities and equipment",
+    "question": "What should equipment surfaces be like?",
+    "answer": "Smooth, durable, nonabsorbent, corrosion-resistant, easy to clean, and food-safe."
+  },
+  {
+    "category": "Facilities and equipment",
+    "question": "Where should garbage be kept?",
+    "answer": "In leakproof, waterproof, pest-proof, easy-to-clean containers with tight lids when not in use."
+  },
+  {
+    "category": "Pest management",
+    "question": "Three rules of integrated pest management?",
+    "answer": "Deny pests access, deny food/water/shelter, and work with a licensed pest control operator."
+  },
+  {
+    "category": "Pest management",
+    "question": "Signs of pests?",
+    "answer": "Droppings, nests, gnaw marks, damaged packages, tracks, odors, or live/dead insects/rodents."
+  },
+  {
+    "category": "Pest management",
+    "question": "What should you do if pests are seen?",
+    "answer": "Report, remove affected food, clean/sanitize, seal entry points, and contact pest control."
+  },
+  {
+    "category": "Pest management",
+    "question": "Can pesticides be applied by any employee?",
+    "answer": "No. Use a licensed pest control operator or follow local rules strictly; store pesticides away from food."
+  },
+  {
+    "category": "HACCP",
+    "question": "What does HACCP stand for?",
+    "answer": "Hazard Analysis Critical Control Point."
+  },
+  {
+    "category": "HACCP",
+    "question": "Purpose of HACCP?",
+    "answer": "Identify significant hazards and control them at points where prevention, elimination, or reduction is possible."
+  },
+  {
+    "category": "HACCP",
+    "question": "Seven HACCP principles?",
+    "answer": "Conduct hazard analysis; determine CCPs; establish critical limits; monitor; corrective actions; verify; keep records."
+  },
+  {
+    "category": "HACCP",
+    "question": "What is a critical control point?",
+    "answer": "A step where a control can prevent, eliminate, or reduce a food safety hazard to an acceptable level."
+  },
+  {
+    "category": "HACCP",
+    "question": "What is a critical limit?",
+    "answer": "A measurable boundary, such as minimum cooking temperature/time, that must be met at a CCP."
+  },
+  {
+    "category": "HACCP",
+    "question": "When is a variance often required?",
+    "answer": "Specialized processes such as smoking for preservation, curing, custom processing, reduced oxygen packaging, sprouting seeds/beans, or live molluscan shellfish tanks."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A cook touches raw chicken then grabs lettuce. What is the issue?",
+    "answer": "Cross-contamination from raw poultry to ready-to-eat food; discard contaminated lettuce and retrain/clean/sanitize."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "Soup cools from 135\u00b0F to 80\u00b0F in 2 hours. What now?",
+    "answer": "It did not reach 70\u00b0F within 2 hours; reheat to 165\u00b0F and cool again correctly or discard."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A prep cook has vomiting before shift. What should the manager do?",
+    "answer": "Exclude the employee from the operation and follow illness reporting/return-to-work rules."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A delivery of milk arrives at 50\u00b0F. What should happen?",
+    "answer": "Reject it unless a specific allowed receiving exception is met and it can be cooled within required time; for exam purposes, milk should arrive 45\u00b0F or lower."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A customer says they have a severe peanut allergy. What should the server do?",
+    "answer": "Notify manager/kitchen, verify ingredients, prevent cross-contact with clean equipment/gloves, and never guess."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "Sanitizer bucket reads too weak. What should you do?",
+    "answer": "Remake or adjust sanitizer to the approved concentration and retest with proper strips."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "Cooked rice was left out overnight. What should happen?",
+    "answer": "Discard it. Cooked rice is TCS and time-temperature abused rice can grow pathogens/toxins."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "Ready-to-eat chicken salad was made Monday. What is the discard day if held at 41\u00b0F?",
+    "answer": "Sunday: 7 days total, counting Monday as day 1."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "Raw ground beef is above whole fish in the cooler. Is that correct?",
+    "answer": "No. Store seafood above whole cuts, above ground meat, above poultry; ground beef should be below seafood."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A hand sink is blocked with boxes. What should a manager do?",
+    "answer": "Clear it immediately. Hand sinks must be accessible and stocked."
+  },
+  {
+    "category": "Temperature drills",
+    "question": "Flash recall: what temperature is required for poultry, stuffing, stuffed meats, and reheated TCS food?",
+    "answer": "165\u00b0F"
+  },
+  {
+    "category": "Temperature drills",
+    "question": "Why is 165\u00b0F important for poultry, stuffing, stuffed meats, and reheated TCS food?",
+    "answer": "It is the ServSafe/Food Code control point commonly tested for poultry, stuffing, stuffed meats, and reheated TCS food; use a calibrated thermometer and required holding time."
+  },
+  {
+    "category": "Temperature drills",
+    "question": "Flash recall: what temperature is required for ground meats and shell eggs for hot holding?",
+    "answer": "155\u00b0F"
+  },
+  {
+    "category": "Temperature drills",
+    "question": "Why is 155\u00b0F important for ground meats and shell eggs for hot holding?",
+    "answer": "It is the ServSafe/Food Code control point commonly tested for ground meats and shell eggs for hot holding; use a calibrated thermometer and required holding time."
+  },
+  {
+    "category": "Temperature drills",
+    "question": "Flash recall: what temperature is required for seafood, steaks/chops, and shell eggs for immediate service?",
+    "answer": "145\u00b0F"
+  },
+  {
+    "category": "Temperature drills",
+    "question": "Why is 145\u00b0F important for seafood, steaks/chops, and shell eggs for immediate service?",
+    "answer": "It is the ServSafe/Food Code control point commonly tested for seafood, steaks/chops, and shell eggs for immediate service; use a calibrated thermometer and required holding time."
+  },
+  {
+    "category": "Temperature drills",
+    "question": "Flash recall: what temperature is required for plant foods cooked for hot holding?",
+    "answer": "135\u00b0F"
+  },
+  {
+    "category": "Temperature drills",
+    "question": "Why is 135\u00b0F important for plant foods cooked for hot holding?",
+    "answer": "It is the ServSafe/Food Code control point commonly tested for plant foods cooked for hot holding; use a calibrated thermometer and required holding time."
+  },
+  {
+    "category": "Temperature drills",
+    "question": "Flash recall: what temperature is required for cold holding?",
+    "answer": "41\u00b0F or lower"
+  },
+  {
+    "category": "Temperature drills",
+    "question": "Why is 41\u00b0F or lower important for cold holding?",
+    "answer": "It is the ServSafe/Food Code control point commonly tested for cold holding; use a calibrated thermometer and required holding time."
+  },
+  {
+    "category": "Temperature drills",
+    "question": "Flash recall: what temperature is required for hot holding?",
+    "answer": "135\u00b0F or higher"
+  },
+  {
+    "category": "Temperature drills",
+    "question": "Why is 135\u00b0F or higher important for hot holding?",
+    "answer": "It is the ServSafe/Food Code control point commonly tested for hot holding; use a calibrated thermometer and required holding time."
+  },
+  {
+    "category": "Allergen drills",
+    "question": "Is milk a major food allergen to know for ServSafe?",
+    "answer": "Yes. Milk is one of the major allergens managers must recognize and control for cross-contact."
+  },
+  {
+    "category": "Allergen drills",
+    "question": "Is eggs a major food allergen to know for ServSafe?",
+    "answer": "Yes. Eggs is one of the major allergens managers must recognize and control for cross-contact."
+  },
+  {
+    "category": "Allergen drills",
+    "question": "Is fish a major food allergen to know for ServSafe?",
+    "answer": "Yes. Fish is one of the major allergens managers must recognize and control for cross-contact."
+  },
+  {
+    "category": "Allergen drills",
+    "question": "Is crustacean shellfish a major food allergen to know for ServSafe?",
+    "answer": "Yes. Crustacean shellfish is one of the major allergens managers must recognize and control for cross-contact."
+  },
+  {
+    "category": "Allergen drills",
+    "question": "Is tree nuts a major food allergen to know for ServSafe?",
+    "answer": "Yes. Tree nuts is one of the major allergens managers must recognize and control for cross-contact."
+  },
+  {
+    "category": "Allergen drills",
+    "question": "Is peanuts a major food allergen to know for ServSafe?",
+    "answer": "Yes. Peanuts is one of the major allergens managers must recognize and control for cross-contact."
+  },
+  {
+    "category": "Allergen drills",
+    "question": "Is wheat a major food allergen to know for ServSafe?",
+    "answer": "Yes. Wheat is one of the major allergens managers must recognize and control for cross-contact."
+  },
+  {
+    "category": "Allergen drills",
+    "question": "Is soybeans a major food allergen to know for ServSafe?",
+    "answer": "Yes. Soybeans is one of the major allergens managers must recognize and control for cross-contact."
+  },
+  {
+    "category": "Allergen drills",
+    "question": "Is sesame a major food allergen to know for ServSafe?",
+    "answer": "Yes. Sesame is one of the major allergens managers must recognize and control for cross-contact."
+  },
+  {
+    "category": "Pathogen drills",
+    "question": "Norovirus: common source foods?",
+    "answer": "ready-to-eat foods handled by sick employees; vomit/fecal contamination"
+  },
+  {
+    "category": "Pathogen drills",
+    "question": "Norovirus: key prevention?",
+    "answer": "exclude sick employees, wash hands, no bare-hand RTE contact"
+  },
+  {
+    "category": "Pathogen drills",
+    "question": "Hepatitis A: common source foods?",
+    "answer": "infected handlers, shellfish/contaminated water"
+  },
+  {
+    "category": "Pathogen drills",
+    "question": "Hepatitis A: key prevention?",
+    "answer": "exclude diagnosed handlers and enforce handwashing"
+  },
+  {
+    "category": "Pathogen drills",
+    "question": "Salmonella: common source foods?",
+    "answer": "poultry/eggs/meat/produce"
+  },
+  {
+    "category": "Pathogen drills",
+    "question": "Salmonella: key prevention?",
+    "answer": "cook, prevent cross-contamination, control suppliers"
+  },
+  {
+    "category": "Pathogen drills",
+    "question": "Shigella: common source foods?",
+    "answer": "salads/produce contaminated by hands or water"
+  },
+  {
+    "category": "Pathogen drills",
+    "question": "Shigella: key prevention?",
+    "answer": "handwashing and approved water/suppliers"
+  },
+  {
+    "category": "Pathogen drills",
+    "question": "STEC E. coli: common source foods?",
+    "answer": "undercooked ground beef and contaminated produce"
+  },
+  {
+    "category": "Pathogen drills",
+    "question": "STEC E. coli: key prevention?",
+    "answer": "cook ground beef, prevent cross-contamination"
+  },
+  {
+    "category": "Pathogen drills",
+    "question": "Listeria: common source foods?",
+    "answer": "deli meats/RTE foods at cold temps"
+  },
+  {
+    "category": "Pathogen drills",
+    "question": "Listeria: key prevention?",
+    "answer": "date mark, cold hold, clean, discard expired food"
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A package of frozen fish has large ice crystals and fluid stains.",
+    "answer": "Reject it: signs of thawing and refreezing/time-temperature abuse."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A food handler washes hands in a prep sink.",
+    "answer": "Correct them: hands must be washed only at a designated handwashing sink."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A dishwasher stacks wet sanitized pans.",
+    "answer": "Stop and air-dry; wet nesting can contaminate surfaces and prevents proper drying."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A server wipes a table then makes a salad without washing hands.",
+    "answer": "Unsafe. Wash hands before handling ready-to-eat food and use gloves/utensils."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A can is swollen at receiving.",
+    "answer": "Reject it; swelling may indicate dangerous contamination."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A vacuum-packed fish label says keep frozen until use, but it was thawed sealed in the cooler.",
+    "answer": "Follow label controls; many ROP fish must be opened before/while thawing to reduce botulism risk."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "Quats sanitizer is mixed but no one checked concentration.",
+    "answer": "Use quat test strips; concentration must match label/local requirements."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A cutting board has deep grooves.",
+    "answer": "Replace/resurface it; grooves can hold food and pathogens."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "Employees store personal medicine above the prep table.",
+    "answer": "Move it to an approved personal storage area away from food/equipment."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A cook tastes soup with the stirring spoon then returns it to the pot.",
+    "answer": "Unsafe. Use a clean single-use tasting spoon and never double-dip."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A customer returns an uncovered bread basket.",
+    "answer": "Do not re-serve opened/returned food to another customer."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A manager sees condensation dripping into food in the walk-in.",
+    "answer": "Discard affected food and repair/clean the source; protect food from overhead contamination."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A handwashing sink has no paper towels.",
+    "answer": "Restock immediately; handwashing stations must be supplied."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A prep table sanitizer bucket is stored next to onions and splashing.",
+    "answer": "Move chemical sanitizer away from food to prevent chemical contamination."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A team member reports jaundice.",
+    "answer": "Exclude and report/follow local regulatory authority guidance before return to work."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "Raw chicken is prepped next to uncovered cake.",
+    "answer": "Separate raw/RTE prep in time or space and protect ready-to-eat food."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A buffet uses the same tongs for shrimp and salad.",
+    "answer": "Cross-contact/cross-contamination risk; provide separate utensils and replace contaminated food if needed."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A cooler is at 47\u00b0F.",
+    "answer": "Move food to working refrigeration, check food temps/time, repair cooler, and discard unsafe TCS food if limits exceeded."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A thermometer reads 36\u00b0F in ice water.",
+    "answer": "Calibrate to 32\u00b0F or replace if it cannot be calibrated."
+  },
+  {
+    "category": "Manager practice scenarios",
+    "question": "A delivery driver leaves cases on the floor during receiving.",
+    "answer": "Move food to approved storage at least 6 inches off floor and inspect for contamination/damage."
+  },
+  {
+    "category": "Quick review",
+    "question": "Quick review #1: what is the manager action for handwashing?",
+    "answer": "Wash at proper sink, scrub 10-15 seconds, dry with single-use towel."
+  },
+  {
+    "category": "Quick review",
+    "question": "Quick review #2: what is the manager action for cooling?",
+    "answer": "135\u219270\u00b0f in 2 hours and 70\u219241\u00b0f in 4 more."
+  },
+  {
+    "category": "Quick review",
+    "question": "Quick review #3: what is the manager action for date marking?",
+    "answer": "7 days max at 41\u00b0f; prep/open date is day 1."
+  },
+  {
+    "category": "Quick review",
+    "question": "Quick review #4: what is the manager action for FIFO?",
+    "answer": "Oldest safe product used first."
+  },
+  {
+    "category": "Quick review",
+    "question": "Quick review #5: what is the manager action for approved suppliers?",
+    "answer": "Buy from regulated/reputable sources."
+  },
+  {
+    "category": "Quick review",
+    "question": "Quick review #6: what is the manager action for sanitizer?",
+    "answer": "Right chemical, concentration, contact time, temperature."
+  },
+  {
+    "category": "Quick review",
+    "question": "Quick review #7: what is the manager action for backflow?",
+    "answer": "Prevent cross-connections with air gap/backflow device."
+  },
+  {
+    "category": "Quick review",
+    "question": "Quick review #8: what is the manager action for pest control?",
+    "answer": "Deny access, food/water/shelter, work with pco."
+  },
+  {
+    "category": "Quick review",
+    "question": "Quick review #9: what is the manager action for HACCP records?",
+    "answer": "Prove monitoring/corrective actions happened."
+  },
+  {
+    "category": "Quick review",
+    "question": "Quick review #10: what is the manager action for allergy order?",
+    "answer": "Communicate, verify, clean equipment, prevent cross-contact."
+  }
+]
