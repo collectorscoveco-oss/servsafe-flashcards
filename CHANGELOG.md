@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.4.1 — 2026-07-24
+- Expanded the web Study Guide tab from four quick cards into a fuller plain-English guide.
+- Added sections for TCS foods, temperature rules, cooling/reheating, hygiene, cross-contamination, receiving/storage, cleaning/sanitizing, Big 6 illnesses, manager duties, Florida notes, and study strategy.
+- Improved spacing/readability for the Study Guide cards.
+
 ## v0.4.0 — 2026-07-24
 - Added a simple static web app in `web/` for classroom/group study.
 - Added tap-to-flip flashcards organized by category.

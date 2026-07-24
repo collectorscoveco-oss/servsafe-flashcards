@@ -78,10 +78,87 @@ const temps = [
 ];
 
 const guide = {
-  'Exam Tips': ['Protect ready-to-eat food.', 'Wash hands after anything dirty or personal.', 'Clean first, sanitize second.', 'When unsafe, correct it right away.'],
-  'Top Temperatures': ['Poultry and reheated food: 165°F.', 'Ground meat: 155°F.', 'Seafood/steaks/pork: 145°F.', 'Hot hold: 135°F+. Cold hold: 41°F or lower.'],
-  'Manager Focus': ['Train staff.', 'Check temperatures.', 'Watch handwashing/glove use.', 'Prevent cross-contamination.', 'Document and correct problems.'],
-  'Storage Order': ['Top: ready-to-eat foods.', 'Then seafood.', 'Then whole beef/pork.', 'Then ground meat.', 'Bottom: poultry.']
+  'Start Here': [
+    'The manager’s job is to prevent foodborne illness before it happens.',
+    'Most exam questions are about time, temperature, contamination, hygiene, cleaning, and manager control.',
+    'If a question sounds unsafe, the manager should stop the unsafe action, correct it, and retrain if needed.'
+  ],
+  'TCS Food Basics': [
+    'TCS means Time/Temperature Control for Safety.',
+    'TCS foods support fast bacteria growth if they sit in the danger zone too long.',
+    'Common TCS foods: meat, poultry, seafood, eggs, dairy, cooked rice, cooked beans, cut melon, cut tomatoes, and cut leafy greens.',
+    'Danger zone: 41°F to 135°F. Keep cold food cold and hot food hot.'
+  ],
+  'Temperature Rules': [
+    'Cold holding: 41°F or lower.',
+    'Hot holding: 135°F or higher.',
+    'Poultry, stuffed foods, and reheated food for hot holding: 165°F.',
+    'Ground meat and injected meats: 155°F.',
+    'Seafood, steaks, pork chops, and eggs for immediate service: 145°F.',
+    'Fruits, vegetables, grains, and legumes for hot holding: 135°F.'
+  ],
+  'Cooling and Reheating': [
+    'Cool hot TCS food from 135°F to 70°F within 2 hours.',
+    'Then cool from 70°F to 41°F within 4 more hours.',
+    'Total cooling time can be no more than 6 hours.',
+    'Use shallow pans, ice baths, smaller portions, blast chillers, or ice paddles.',
+    'Reheat food for hot holding to 165°F within 2 hours.'
+  ],
+  'Personal Hygiene': [
+    'Wash hands before food work and after restroom use, touching raw food, trash, face, hair, phone, or body.',
+    'Scrub hands for at least 10–15 seconds.',
+    'Hand sanitizer does not replace handwashing.',
+    'Change gloves when dirty or torn, after raw food, before a new task, and after long continuous use.',
+    'Do not touch ready-to-eat food with bare hands.'
+  ],
+  'Cross-Contamination': [
+    'Keep raw food away from ready-to-eat food.',
+    'Use separate cutting boards, utensils, and prep areas when possible.',
+    'Clean and sanitize equipment between foods.',
+    'Store cooler food from top to bottom: ready-to-eat, seafood, whole cuts, ground meat, poultry.',
+    'Poultry goes on the bottom because it needs the highest cooking temperature.'
+  ],
+  'Receiving and Storage': [
+    'Buy food only from approved suppliers.',
+    'Receive cold TCS food at 41°F or lower and hot TCS food at 135°F or higher.',
+    'Reject cans that are swollen, leaking, rusty, deeply dented, or dented on the seam.',
+    'Store food at least 6 inches off the floor.',
+    'Use FIFO: First In, First Out.',
+    'Ready-to-eat TCS food held over 24 hours needs date marking and is usually kept no more than 7 days.'
+  ],
+  'Cleaning and Sanitizing': [
+    'Cleaning removes food and dirt. Sanitizing lowers germs to safe levels.',
+    'Correct order: scrape, wash, rinse, sanitize, air-dry.',
+    'Food-contact surfaces need cleaning and sanitizing after use, before switching foods, after contamination, and at least every 4 hours during continuous use.',
+    'Use test strips to check sanitizer strength.',
+    'Do not towel-dry sanitized dishes; let them air-dry.'
+  ],
+  'Big 6 Illnesses': [
+    'Know these names: Norovirus, Salmonella Typhi, Shigella, E. coli, Hepatitis A, and non-typhoidal Salmonella.',
+    'Vomiting or diarrhea means the worker should be excluded from food work.',
+    'Norovirus and Hepatitis A are strongly linked to poor handwashing.',
+    'E. coli is often linked to undercooked ground beef.',
+    'Salmonella is often linked to poultry and eggs.'
+  ],
+  'Manager Duties': [
+    'Active managerial control means the manager is watching for food safety risks and correcting them early.',
+    'Train employees, check temperatures, monitor cleaning, watch handwashing, and stop unsafe habits.',
+    'HACCP is a system for identifying and controlling hazards.',
+    'A CCP, or Critical Control Point, is a step where a hazard can be prevented, eliminated, or reduced.',
+    'The person in charge is responsible for keeping the operation safe.'
+  ],
+  'Florida Notes': [
+    'Florida food service operations commonly need certified food managers.',
+    'A manager usually must be certified within 30 days of employment.',
+    'ServSafe Manager is commonly used for Certified Food Protection Manager training/exams.',
+    'Certification is commonly valid for 5 years, depending on the approved provider.'
+  ],
+  'How To Study': [
+    'First memorize temperatures and cooling rules.',
+    'Then study handwashing, glove use, and ready-to-eat food protection.',
+    'Use flashcards for facts and the quiz for recall.',
+    'If you miss a topic twice, go back to that category and study only those cards.'
+  ]
 };
 
 let filtered = [...cards];
