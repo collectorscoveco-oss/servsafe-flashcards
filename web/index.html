@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Manager ServSafe Study Guide</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Food Manager Certification Prep</p>
+      <h1>Manager ServSafe Study Guide</h1>
+      <p class="subtitle">Simple flashcards and practice questions for people learning food safety manager basics.</p>
+    </div>
+    <div class="score-card" aria-live="polite">
+      <span id="knownCount">0</span>/<span id="totalCount">0</span>
+      <small>cards marked known</small>
+    </div>
+  </header>
+
+  <main>
+    <section class="quick-sheet" aria-labelledby="temps-heading">
+      <div class="section-title">
+        <h2 id="temps-heading">Must-Know Temperatures</h2>
+        <button id="resetProgress" class="ghost">Reset Progress</button>
+      </div>
+      <div class="temp-grid" id="tempGrid"></div>
+    </section>
+
+    <nav class="tabs" aria-label="Study modes">
+      <button class="tab active" data-view="flashcards">Flashcards</button>
+      <button class="tab" data-view="quiz">Practice Quiz</button>
+      <button class="tab" data-view="guide">Study Guide</button>
+    </nav>
+
+    <section id="flashcards" class="view active">
+      <div class="toolbar">
+        <label>
+          Category
+          <select id="categoryFilter"></select>
+        </label>
+        <button id="shuffleCards" class="secondary">Shuffle</button>
+      </div>
+
+      <article class="flashcard" id="flashcard" tabindex="0" role="button" aria-label="Tap to flip flashcard">
+        <p class="card-meta" id="cardMeta"></p>
+        <h2 id="cardQuestion"></h2>
+        <p id="cardAnswer" class="answer hidden"></p>
+        <p class="tap-hint">Tap card to flip</p>
+      </article>
+
+      <div class="card-actions">
+        <button id="prevCard" class="secondary">Previous</button>
+        <button id="markKnown">Mark Known</button>
+        <button id="nextCard" class="secondary">Next</button>
+      </div>
+    </section>
+
+    <section id="quiz" class="view">
+      <div class="quiz-panel">
+        <div class="section-title">
+          <h2>Practice Quiz</h2>
+          <button id="newQuiz" class="secondary">New Quiz</button>
+        </div>
+        <p class="muted">10 random questions. Get immediate feedback. This is practice only, not an official exam.</p>
+        <div id="quizBox"></div>
+      </div>
+    </section>
+
+    <section id="guide" class="view">
+      <div class="guide-grid" id="guideGrid"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Study aid for ServSafe/Food Manager-style review. Always follow your instructor, exam provider, and local Florida food safety rules.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

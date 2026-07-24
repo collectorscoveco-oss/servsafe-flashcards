@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.4.0 — 2026-07-24
+- Added a simple static web app in `web/` for classroom/group study.
+- Added tap-to-flip flashcards organized by category.
+- Added browser-saved known-card progress.
+- Added a randomized 10-question web practice quiz with immediate feedback.
+- Added a quick temperature cheat sheet and short study guide screen.
+
 ## v0.3.0 — 2026-07-08
 - Added randomized 50-question practice-test sessions.
 - Added all-bank mode so the app can run every matching question instead of hard-limiting the study bank.
